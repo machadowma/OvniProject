@@ -1,6 +1,6 @@
 # OvniProject
 
-Tutorial para desenvolver um jogo em GODOT onde você controla um disco voador. O tutorial é dividido em duas partes: 
+Tutorial para desenvolver um jogo em GODOT onde você controla um disco voador.
 
 <table>
 <tr align=center><td>
