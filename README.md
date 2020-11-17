@@ -2,6 +2,11 @@
 
 Tutorial para desenvolver um jogo em GODOT onde você controla um disco voador. O tutorial é dividido em duas partes: 
 
+<table>
+<tr align=center><td>
+<img src="https://raw.githubusercontent.com/machadowma/OvniProject/main/OVNIProject.png" align="left" height="272" width="382" >
+</td></tr></table>
+
 ------------------------------
 
 Parte 1)  https://youtu.be/R9MvgfWnV-U
